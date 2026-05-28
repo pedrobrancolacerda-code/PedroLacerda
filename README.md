@@ -32,23 +32,20 @@ me Chamo Pedro Lacerda, tenho 18 anos e sou natural de São Paulo. Atualmente es
 <br/>
 
 ### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=pedrobrancolacerda-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrobrancolacerda-code&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;locale=pt-br" 
   />
-
-
-<p>
 
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Tecnologias" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrancolacerda-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrancolacerda-code&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Tecnologias&amp;langs_count=2" 
   />
-  <p>
+</p>
